@@ -1,1 +1,1 @@
-# topics-of-ai-project
+# CA699I Topics of AI Project
